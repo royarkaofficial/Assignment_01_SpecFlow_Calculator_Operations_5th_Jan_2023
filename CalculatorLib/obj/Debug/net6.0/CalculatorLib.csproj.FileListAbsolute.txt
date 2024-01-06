@@ -1,0 +1,11 @@
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+D:\Phase 4\Day-1\CalculatorLib\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll
